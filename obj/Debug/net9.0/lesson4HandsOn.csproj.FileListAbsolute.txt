@@ -1,0 +1,14 @@
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\lesson4HandsOn\obj\Debug\net9.0\lesson4HandsOn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\lesson4HandsOn\obj\Debug\net9.0\lesson4HandsOn.AssemblyInfoInputs.cache
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\lesson4HandsOn\obj\Debug\net9.0\lesson4HandsOn.AssemblyInfo.cs
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\lesson4HandsOn\obj\Debug\net9.0\lesson4HandsOn.csproj.CoreCompileInputs.cache
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\lesson4HandsOn\bin\Debug\net9.0\lesson4HandsOn.exe
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\lesson4HandsOn\bin\Debug\net9.0\lesson4HandsOn.deps.json
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\lesson4HandsOn\bin\Debug\net9.0\lesson4HandsOn.runtimeconfig.json
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\lesson4HandsOn\bin\Debug\net9.0\lesson4HandsOn.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\lesson4HandsOn\bin\Debug\net9.0\lesson4HandsOn.pdb
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\lesson4HandsOn\obj\Debug\net9.0\lesson4HandsOn.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\lesson4HandsOn\obj\Debug\net9.0\refint\lesson4HandsOn.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\lesson4HandsOn\obj\Debug\net9.0\lesson4HandsOn.pdb
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\lesson4HandsOn\obj\Debug\net9.0\lesson4HandsOn.genruntimeconfig.cache
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\lesson4HandsOn\obj\Debug\net9.0\ref\lesson4HandsOn.dll
